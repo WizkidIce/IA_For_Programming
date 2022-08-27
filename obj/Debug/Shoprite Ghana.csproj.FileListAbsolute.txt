@@ -1,0 +1,38 @@
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Shoprite Ghana.exe.config
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Shoprite Ghana.exe
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Shoprite Ghana.pdb
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Bunifu.Licensing.dll
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Guna.UI.dll
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Guna.UI2.dll
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite Ghana.csproj.AssemblyReference.cache
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite_Ghana.Form1.resources
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite_Ghana.Properties.Resources.resources
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite Ghana.csproj.GenerateResource.cache
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite Ghana.csproj.CoreCompileInputs.cache
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite Ghana.csproj.CopyComplete
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite Ghana.exe
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite Ghana.pdb
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite_Ghana.Splash.resources
+C:\Users\BMPC\Desktop\DCIT318 IA\Shoprite Ghana\obj\Debug\Shoprite_Ghana.ProductForm.resources
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\bin\Debug\Shoprite Ghana.exe.config
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\bin\Debug\Shoprite Ghana.exe
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\bin\Debug\Shoprite Ghana.pdb
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\bin\Debug\Bunifu.Licensing.dll
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\bin\Debug\Guna.UI2.dll
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite Ghana.csproj.AssemblyReference.cache
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite_Ghana.CATEGORYFORM.resources
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite_Ghana.Form1.resources
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite_Ghana.ProductForm.resources
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite_Ghana.Properties.Resources.resources
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite_Ghana.SellerForm.resources
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite_Ghana.Splash.resources
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite Ghana.csproj.GenerateResource.cache
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite Ghana.csproj.CoreCompileInputs.cache
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite Ghana.csproj.CopyComplete
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite Ghana.exe
+C:\Users\BMPC\Desktop\Shoprite_Ghana-master\obj\Debug\Shoprite Ghana.pdb
