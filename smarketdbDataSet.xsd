@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="smarketdbDataSet" targetNamespace="http://tempuri.org/smarketdbDataSet.xsd" xmlns:mstns="http://tempuri.org/smarketdbDataSet.xsd" xmlns="http://tempuri.org/smarketdbDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="smarketdbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="smarketdbConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Shoprite_Ghana.Properties.Settings.GlobalReference.Default.smarketdbConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ProductTb1TableAdapter" GeneratorDataComponentClassName="ProductTb1TableAdapter" Name="ProductTb1" UserDataComponentName="ProductTb1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="smarketdbConnectionString (Settings)" DbObjectName="dbo.ProductTb1" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ProdCat FROM dbo.ProductTb1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ProdCat" DataSetColumn="ProdCat" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="smarketdbDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="smarketdbDataSet" msprop:Generator_UserDSName="smarketdbDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ProductTb1" msprop:Generator_TableClassName="ProductTb1DataTable" msprop:Generator_TableVarName="tableProductTb1" msprop:Generator_TablePropName="ProductTb1" msprop:Generator_RowDeletingName="ProductTb1RowDeleting" msprop:Generator_RowChangingName="ProductTb1RowChanging" msprop:Generator_RowEvHandlerName="ProductTb1RowChangeEventHandler" msprop:Generator_RowDeletedName="ProductTb1RowDeleted" msprop:Generator_UserTableName="ProductTb1" msprop:Generator_RowChangedName="ProductTb1RowChanged" msprop:Generator_RowEvArgName="ProductTb1RowChangeEvent" msprop:Generator_RowClassName="ProductTb1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProdCat" msprop:Generator_ColumnVarNameInTable="columnProdCat" msprop:Generator_ColumnPropNameInRow="ProdCat" msprop:Generator_ColumnPropNameInTable="ProdCatColumn" msprop:Generator_UserColumnName="ProdCat">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
